@@ -1,4 +1,4 @@
-# 42 Exam Practise - Level 1
+# 42 Exam Practise
 
 ## Exercise Status
 
@@ -6,7 +6,7 @@
 ⚠️ = Not sure  
 ❌ = Idk
 
-### Exercises List
+### Exercises List Test 1
 
 1.  ✅ fizzbuzz
 2.  ✅ putstr
@@ -31,5 +31,4 @@
 21. ❌ sort_list
 
 ---
-
-**Progress: 5/21 fully completed ✅**
+**Progress: 9/21 fully completed ✅**
