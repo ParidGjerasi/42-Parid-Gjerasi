@@ -14,9 +14,9 @@
 4.  ✅ string_copy (ft_strcpy)
 5.  ✅ ft_swap
 6.  ✅ rev_print
-7.  ❌ rot_13
-8.  ❌ rotone
-9.  ❌ search_and_replace
+7.  ✅ rot_13
+8.  ✅ rotone
+9.  ✅ search_and_replace
 10. ❌ atoi
 11. ❌ strcmp
 12. ❌ strcspn
