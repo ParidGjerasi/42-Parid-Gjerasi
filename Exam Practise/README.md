@@ -19,16 +19,19 @@
 9.  ✅ search_and_replace
 10. ❌ atoi
 11. ❌ strcmp
-12. ❌ strcspn
-13. ❌ strdup
-14. ❌ inter
-15. ❌ last_word
-16. ❌ union
-17. ❌ ft_list_size
-18. ❌ ft_range
-19. ❌ ft_rrange
-20. ❌ list_remove_if
-21. ❌ sort_list
+12. ❌ itoa
+13. ❌ split
+14. ❌ strcspn
+15. ❌ strdup
+16. ❌ inter
+17. ❌ last_word
+18. ❌ union
+19. ❌ ft_list_size
+20. ❌ ft_range
+21. ❌ ft_rrange
+22. ❌ list_remove_if
+23. ❌ sort_list
 
 ---
-**Progress: 9/21 fully completed ✅**
+
+**Progress: 9/23 fully completed ✅**
