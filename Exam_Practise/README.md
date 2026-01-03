@@ -19,11 +19,11 @@
 9.  ✅ rotone
 10. ✅ search_and_replace
 11. ❌ atoi
-12. ❌ strcmp
+12. ✅ strcmp
 13. ❌ itoa
 14. ❌ split
-15. ❌ strcspn
-16. ❌ strdup
+15. ✅ strcspn
+16. ✅ strdup
 17. ❌ inter
 18. ❌ last_word
 19. ❌ union
@@ -35,4 +35,4 @@
 
 ---
 
-**Progress: 10/24 fully completed ✅**
+**Progress: 13/24 fully completed ✅**
