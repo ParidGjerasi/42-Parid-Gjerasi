@@ -2,41 +2,26 @@
 
 char    *ft_strdup(char *src){
 
+
     int i;
-    char *dup;
+    char *temp;
 
     i = 0;
-    while(src[i])
-    i++;
+    while(src[i]){
+        i++;
+    }
 
-    dup = malloc(i+1);
+    temp = malloc (i+1);
 
-    if(dup == NULL)
+    if(temp = NULL)
     return(NULL);
 
     i = 0;
     while(src[i]){
-        dup[i] = src[i];
+        (temp[i]= src[i]);
         i++;
     }
-    dup[i] = '\0';
-    return(dup);
-
+    temp[i]= '\0';
+    return(temp);
 }
-
-
-
-
-#include <stdio.h>
-#include <stdlib.h>
-
-int main()
-{
-    char *copy = ft_strdup("hello");
-    if (copy)
-    {
-        printf("%s\n", copy);  // prints "hello"
-        free(copy);  // IMPORTANT: free allocated memory!
-    }
-    return 0;
-}
+    
