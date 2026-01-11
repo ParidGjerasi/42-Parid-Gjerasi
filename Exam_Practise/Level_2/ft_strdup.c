@@ -1,24 +1,23 @@
-#include <stdlib.h>
+#include <unistd.h>
 char    *ft_strdup(char *src){
 
-    int i;
-    char *temp;
+    int i = 0;
+    char *kak;
 
-    i=0;
     while(src[i]){
         i++;
     }
 
-    temp = malloc(i+1);
+    kak = malloc(i+1);
 
-    if(temp == NULL)
+    if(kak == NULL)
     return(NULL);
 
     i=0;
     while(src[i]){
-        (temp[i]=src[i]);
+        (kak[i]= src[i]);
         i++;
     }
-    temp[i]='\0';
-    return(temp);
+    kak[i]= '\0';
+    return(kak);
 }
