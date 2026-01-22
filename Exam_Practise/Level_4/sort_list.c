@@ -1,29 +1,34 @@
-#include "list.h"
-
-t_list	*sort_list(t_list *lst, int (*cmp)(int, int))
+typedef struct s_list
 {
+    int             data;
+    struct s_list   *next;
+} t_list;
+
+
+t_list	*sort_list(t_list* lst, int (*cmp)(int, int)){
+
 	t_list *i;
 	t_list *j;
-	int tmp;
+	int merda;
 
-	if (!lst)
-		return (NULL);
+	if(!lst)
+	return(NULL);
 
 	i = lst;
-	while (i)
-	{
+
+	while(i){
 		j = i->next;
-		while (j)
-		{
-			if (!cmp(i->data, j->data))
-			{
-				tmp = i->data;
-				i->data = j->data;
-				j->data = tmp;
-			}
-			j = j->next;
+
+	while(j){
+
+		if(!cmp(i->data, j->data)){
+			merda = i->data;
+			i->data = j->data;
+			j->data = merda;
 		}
-		i = i->next;
+		j = j->next;
 	}
-	return (lst);
+	i = i->next;
+}
+	return(lst);
 }

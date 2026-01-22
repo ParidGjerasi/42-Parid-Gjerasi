@@ -18,20 +18,20 @@
 8.  ✅ rot_13
 9.  ✅ rotone
 10. ✅ search_and_replace
-11. ❌ atoi
+11. ✅ atoi
 12. ✅ strcmp
 13. ❌ itoa
 14. ❌ split
 15. ✅ strcspn
 16. ✅ strdup
-17. ❌ inter
+17. ✅ inter
 18. ❌ last_word
-19. ❌ union
-20. ❌ ft_list_size
-21. ❌ ft_range
+19. ✅ union
+20. ✅ ft_list_size
+21. ✅ ft_range
 22. ❌ ft_rrange
 23. ❌ list_remove_if
-24. ❌ sort_list
+24. ✅ sort_list
 
 ---
 
