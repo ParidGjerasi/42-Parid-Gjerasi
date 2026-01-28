@@ -20,7 +20,7 @@
 10. ✅ search_and_replace
 11. ✅ atoi
 12. ✅ strcmp
-13. ❌ itoa
+13. ✅itoa
 14. ❌ split
 15. ✅ strcspn
 16. ✅ strdup
@@ -32,7 +32,6 @@
 22. ❌ ft_rrange
 23. ❌ list_remove_if
 24. ✅ sort_list
-
 ---
 
 **Progress: 13/24 fully completed ✅**
