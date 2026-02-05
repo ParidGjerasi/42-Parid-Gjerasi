@@ -1,6 +1,7 @@
 #include <stdlib.h>
 int     *ft_range(int start, int end){
 
+    
     int i = 0;
     int len = 0;
     int *rak;
