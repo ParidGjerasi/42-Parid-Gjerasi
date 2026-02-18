@@ -1,11 +1,5 @@
 # 42 Exam Practise
 
-## Exercise Status
-
-✅ = Know it well  
-⚠️ = Not sure  
-❌ = Idk
-
 ### Exercises List Test 1
 
 1.  ✅ firstword
@@ -33,5 +27,3 @@
 23. ❌ list_remove_if
 24. ✅ sort_list
 ---
-
-**Progress: 13/24 fully completed ✅**
