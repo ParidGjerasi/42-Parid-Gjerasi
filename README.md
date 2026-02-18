@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" alt="42 School Logo" />
+<a href="https://github.com/42school" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.svg" width="150" alt="42 School Logo" /></a>
 
 # 42-Parid-Gjerasi
 
