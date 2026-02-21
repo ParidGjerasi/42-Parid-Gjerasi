@@ -8,7 +8,7 @@
 
     if(ac ==3){
 
-        while(av[1][i&&av[2][j]]){
+        while(av[1][i] && av[2][j]]){
             i++;
         j++;
         }
